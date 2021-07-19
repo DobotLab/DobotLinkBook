@@ -1,0 +1,22 @@
+# Table of contents
+
+* [简介](README.md)
+* [API](tong-yong-jie-kou/README.md)
+  * [通用接口](tong-yong-jie-kou/tong-yong-jie-kou.md)
+  * [教育产品接口](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/README.md)
+    * [教育产品通用接口](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/jiao-yu-chan-pin-tong-yong.md)
+    * [Magician接口](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magician.md)
+    * [MagicBox接口](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magicbox/README.md)
+      * [摇杆](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magicbox/yao-gan/README.md)
+        * [判断触发按钮](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magicbox/yao-gan/pan-duan-chu-fa-an-niu.md)
+        * [获取触发按钮](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magicbox/yao-gan/huo-qu-chu-fa-an-niu.md)
+        * [获取摇杆位置](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magicbox/yao-gan/huo-qu-yao-gan-wei-zhi.md)
+      * [手势传感器](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magicbox/shou-shi-chuan-gan-qi/README.md)
+        * [判断触发手势](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magicbox/shou-shi-chuan-gan-qi/pan-duan-chu-fa-shou-shi.md)
+    * [MagicianLite接口](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/magicianlite.md)
+  * [工业产品接口](tong-yong-jie-kou/gong-ye-chan-pin-jie-kou/README.md)
+    * [工业通用接口](tong-yong-jie-kou/gong-ye-chan-pin-jie-kou/gong-ye-chan-pin-tong-yong.md)
+    * [M1Pro接口](tong-yong-jie-kou/gong-ye-chan-pin-jie-kou/m1pro.md)
+    * [MG400接口](tong-yong-jie-kou/gong-ye-chan-pin-jie-kou/mg400.md)
+  * [接口错误码](tong-yong-jie-kou/jie-kou-cuo-wu-ma.md)
+
