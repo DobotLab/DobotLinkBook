@@ -1,9 +1,5 @@
 # 简介
 
-
-
-
-
 <!-- TOC -->
 
 - [简介](#简介)
@@ -60,6 +56,10 @@
 | Embed Linux |   ❌    |   ❌    |     ❌      |      🚧      |      🚧      |      🚧      | 2020 年 12 月 |
 
 # 3. 框架图
+
+{% plantuml %}
+Bob->Alice : hello
+{% endplantuml %}
 
 ```plantuml
 @startuml
