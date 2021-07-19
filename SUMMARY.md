@@ -1,6 +1,7 @@
 # Table of contents
 
 * [简介](README.md)
+* [用户手册](yong-hu-shou-ce.md)
 * [API](tong-yong-jie-kou/README.md)
   * [通用接口](tong-yong-jie-kou/tong-yong-jie-kou.md)
   * [教育产品接口](tong-yong-jie-kou/jiao-yu-chan-pin-jie-kou/README.md)
@@ -19,4 +20,5 @@
     * [M1Pro接口](tong-yong-jie-kou/gong-ye-chan-pin-jie-kou/m1pro.md)
     * [MG400接口](tong-yong-jie-kou/gong-ye-chan-pin-jie-kou/mg400.md)
   * [接口错误码](tong-yong-jie-kou/jie-kou-cuo-wu-ma.md)
+* [FAQ](faq.md)
 
