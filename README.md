@@ -55,7 +55,7 @@
 
 ## 3. 框架图
 
-```text
+```json
 @startuml
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Component.puml
 
@@ -193,7 +193,7 @@ System_Boundary(DobotLink_SYS, "DobotLink System") {
 
 ## 4. 工业插件类图
 
-```text
+```json
 @startuml
 interface DPluginInterface {
 }
