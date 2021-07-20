@@ -1,2 +1,0 @@
-# MagicBox接口
-
